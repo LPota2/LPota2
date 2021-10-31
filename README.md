@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LPota2
 - 👀 I’m interested in making games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C#
 - 📫 How to reach me 
   - Gmail: edmundbewintara@gmail.com
 
